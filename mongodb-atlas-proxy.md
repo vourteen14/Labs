@@ -42,4 +42,8 @@ ALL_PROXY=socks5h://<sock ip proxy server>:<port> mongosh "mongodb://<mongo uri>
 ````
 
 ## Test
-Running on linux, still no on windows
+Test on linux, with proxy
+![alt text](images/test-mongo1.png)
+
+without proxy
+![alt text](images/test-mongo2.png)
